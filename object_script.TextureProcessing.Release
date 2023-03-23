@@ -1,0 +1,14 @@
+release/ArcBall.o
+release/ArcBallWidget.o
+release/AttributedObject.o
+release/Cartesian3.o
+release/Homogeneous4.o
+release/main.o
+release/Matrix4.o
+release/Quaternion.o
+release/RenderController.o
+release/RenderWidget.o
+release/RenderWindow.o
+release/moc_ArcBallWidget.o
+release/moc_RenderController.o
+release/moc_RenderWidget.o
